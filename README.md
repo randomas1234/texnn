@@ -1,2 +1,0 @@
-# texnologia
- a site 
